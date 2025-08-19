@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, je suis Elie</h1><h3 align="center">Je suis étudiant développeur web vivant à Strasbourg en France :)</h3>- Je travaille actuellement sur Étudiant en développement Web- 📫 🔭 Comment me joindre -> ferradji.elie@outlook.fr
+<h1 align="center">Bonjour 👋, je suis Elie</h1><h3 align="center">Je suis étudiant développeur web vivant à Strasbourg en France :)</h3>- Je travaille actuellement sur Étudiant en développement Web- 📫 🔭 Comment me joindre -> ferradji.elie@gmail.com
 
 
 
