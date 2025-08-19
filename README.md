@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Elie Ferradji  
 
 🎓 Diplômé **Concepteur Développeur d’Applications (août 2025)**  
-📚 Étudiant en **Master Intelligence Artificielle à Epitech Strasbourg**  
+📚 Étudiant en **Master Intelligence Artificielle à Epitech Strasbourg à partir de Octobre 2025**  
 💻 Passionné par le développement **fullstack** et l’exploration des usages de l’IA  
 
 ---
