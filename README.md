@@ -22,7 +22,7 @@ Intéressé par les environnements **stimulants et bienveillants**, avec un attr
 
 ## 📫 Me contacter
 - Email : **ferradji.elie@gmail.com**  
-- [LinkedIn](https://linkedin.com/in/elie-ferradji)  
+- [LinkedIn](https://www.linkedin.com/in/elie-ferradji-a139a7170/)  
 
 ---
 
