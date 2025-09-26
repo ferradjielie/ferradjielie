@@ -10,7 +10,8 @@
 - **Front-end** : React, HTML5, CSS3, JavaScript  
 - **Back-end** : Node.js, Express.js, Supabase, PHP (bases)  
 - **Bases de données** : MySQL, modélisation (Looping)  
-- 🌱 En cours d’apprentissage : **Python** (dans le cadre de ma spécialisation IA), **C**  
+- 🌱 En cours d’apprentissage : C
+- 🌱 En cours d’apprentissage prochainement : python
 
 ---
 
