@@ -11,7 +11,7 @@
 - **Back-end** : Node.js, Express.js, Supabase, PHP (bases)  
 - **Bases de données** : MySQL, modélisation (Looping)  
 - 🌱 En cours d’apprentissage : C
-- 🌱 En cours d’apprentissage prochainement : python
+- 🌱  prochainement : python
 
 ---
 
